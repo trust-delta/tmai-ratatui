@@ -1,5 +1,7 @@
 # tmai-ratatui
 
+> 🏠 **Project hub**: [`trust-delta/tmai`](https://github.com/trust-delta/tmai) — start there for binary installs, overview, and a map of all sub-repos.
+
 A [ratatui](https://ratatui.rs/) TUI client for [tmai-core](https://github.com/trust-delta/tmai-core) — speaks the HTTP + SSE contract defined by [tmai-api-spec](https://github.com/trust-delta/tmai-api-spec).
 
 ## Status
